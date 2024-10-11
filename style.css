@@ -1,0 +1,125 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: poopins;sans-serif;
+    box-sizing: border-box; */
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #faebd7;
+    background-size: cover;
+    background-position: center;
+    padding: 10px 8px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.logo{
+    width: 260px;
+    cursor: pointer;
+}
+nav ul{
+    list-style: none;
+    width: 100%;
+    text-align: right;
+    padding-right: 10px ;
+}
+nav ul li{
+    display: inline-block;
+    margin: 20px 20px;
+    
+
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.grup-img-section{
+    height: 500px;
+    padding: 50px;
+    margin: 20px;
+   
+
+}
+.content{
+    display: flex;
+   
+}
+.nike-section{
+    padding: 80px;
+    margin-top: 80px;
+   
+   
+}
+.hed-cls{
+    color: #f28639;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+p{
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    font-family: serif;
+
+}.card{
+    width:325px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px;
+    margin: 20px;
+}
+.card-containar{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 100px;
+}
+.hed-shoes{
+    text-align: center;
+    color:#FA804C;
+    margin-bottom: 10px;
+}
+.card-price{
+    color: #FA804C;
+    font-family: sans-serif;
+}
+.formal-shoes-hed{
+    margin-top: 40px;
+    
+}
+/* .folid-img{
+    width: 78px;
+    height: 82px;
+}
+.flex-div{
+    display: flex;
+} */
+.shoes {
+    color: #363958;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+        .col-md-6 {
+            flex: 0 0 auto;
+            width: 50%;
+        }
+        .fotar-sec{
+            text-align: center;
+            
+           
+        }
+                
